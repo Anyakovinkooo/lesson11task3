@@ -23,6 +23,7 @@
     z-index: 1;
     min-width: 120px;
     display: none;
+    margin-left: -16px;
 }
 .menu-item {
     padding: 16px;
